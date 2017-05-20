@@ -1,0 +1,21 @@
+{
+  "name": "my first bootstrapProject",
+  "homepage": "https://github.com/lopezfher/Projectone",
+  "description": "How to use basic bootstrap clases",
+  "main": "index.html",
+  "authors": [
+    "Fernando Sosa Lopez"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
